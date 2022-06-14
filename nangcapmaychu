@@ -109,10 +109,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@720p.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@720p.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="📺|VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5-tay-nam-bo.png?1573875815",VTV5.TNB ⁷²⁰ᵖ
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="📺|VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/vtv5-tay-nguyen.png?1571455201",VTV5.TN ⁷²⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
@@ -178,7 +174,7 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc13hd" group-title="📺|VTC" tvg-logo="https://i.imgur.com/lNji7l0.png" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC13 HD
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdb/vtc13_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="📺|VTC" tvg-logo="https://i.imgur.com/RjXbfNd.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b2500000.m3u8

@@ -87,7 +87,7 @@ https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtv9hd"group-title="📺|VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV9 HD
-https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b2500000.m3u8
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/chunklist_b2000000.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="📺|VTV" tvg-logo=https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png",VTV1 ¹⁰⁸⁰ᵖ
 #EXTVLCOPT:http-user-agent="CoocaaTV"
